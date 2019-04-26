@@ -1,7 +1,7 @@
 # Python Machine Learn
 
-Studies with machine learn in Python.
-In those samples we will use that libaries:
+Studies with machine learn in Python. These lessons are based on the ['Machine Learn' training of Alura](https://cursos.alura.com.br/formacao-machine-learning).
+In these samples we will use that libaries:
 - [Scikit](https://scikit-learn.org)
 
 ## Projects:
