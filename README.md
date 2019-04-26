@@ -6,7 +6,7 @@ In those samples we will use that libaries:
 
 ## Projects:
 
-### [first_classification](https://github.com/gbzarelli/python-machine-learn/tree/master/fist_classification)
+### [first_classification](https://github.com/gbzarelli/python-machine-learn/tree/master/first_classification)
  In this project we can see how to implement the Multinomial ([MultinomialNB](https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html)) algorithm from the sklearn.naive_bayes library. 
 
 ### [categorical_variable](https://github.com/gbzarelli/python-machine-learn/tree/master/categorical_variable)
